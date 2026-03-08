@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Sweet Dreams (Are Made of This)",
+  "base_artist": "Eurythmics",
+  "createdAt": "2026-03-08T11:06:28.505861Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sweet Dreams (Are Made of This)",
+      "artist": "Eurythmics",
+      "has_synced": false,
+      "path": "select/01_Sweet_Dreams_(Are_Made_of_This)_Eurythmics.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sweet Dreams (Are Made of This)",
+      "artist": "Eurythmics",
+      "has_synced": true,
+      "path": "select/02_Sweet_Dreams_(Are_Made_of_This)_Eurythmics.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sweet Dreams (Are Made of This)",
+      "artist": "Weezer",
+      "has_synced": true,
+      "path": "select/03_Sweet_Dreams_(Are_Made_of_This)_Weezer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sweet Dreams (Are Made of This)",
+      "artist": "Savlonic",
+      "has_synced": true,
+      "path": "select/04_Sweet_Dreams_(Are_Made_of_This)_Savlonic.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sweet Dreams (Are Made of This)",
+      "artist": "Scala",
+      "has_synced": false,
+      "path": "select/05_Sweet_Dreams_(Are_Made_of_This)_Scala.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sweet Dreams (Are Made of This)",
+      "artist": "Eurythmics",
+      "has_synced": true,
+      "path": "select/06_Sweet_Dreams_(Are_Made_of_This)_Eurythmics.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sweet Dreams (Are Made of This)",
+      "artist": "Eurythmics",
+      "has_synced": true,
+      "path": "select/07_Sweet_Dreams_(Are_Made_of_This)_Eurythmics.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sweet Dreams (Are Made Of This)",
+      "artist": "Eurythmics",
+      "has_synced": true,
+      "path": "select/08_Sweet_Dreams_(Are_Made_Of_This)_Eurythmics.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sweet Dreams (Are Made Of This)",
+      "artist": "Verschiedene",
+      "has_synced": true,
+      "path": "select/09_Sweet_Dreams_(Are_Made_Of_This)_Verschiedene.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sweet Dreams (Are Made of This)",
+      "artist": "Eurythmics",
+      "has_synced": false,
+      "path": "select/pl_01_Sweet_Dreams_(Are_Made_of_This)_Eurythmics.txt"
+    }
+  ]
+}
